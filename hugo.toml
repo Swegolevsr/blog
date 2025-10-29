@@ -1,0 +1,24 @@
+baseURL = 'https://swegolev.github.io/'
+languageCode = 'en-us'
+title = 'Swegolev Blog'
+theme = 'archie'
+
+[params]
+    customcss = ["css/custom.css"]
+
+#Main menu items
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Articles"
+url = "/articles"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
