@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Swegolev Blog</title>
-    <link>http://localhost:1313/articles/</link>
+    <link>http://localhost:1313/blog/articles/</link>
     <description>Recent content in Articles on Swegolev Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Oct 2025 15:23:01 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Article</title>
-      <link>http://localhost:1313/articles/article/</link>
+      <link>http://localhost:1313/blog/articles/article/</link>
       <pubDate>Wed, 29 Oct 2025 15:23:01 +0700</pubDate>
-      <guid>http://localhost:1313/articles/article/</guid>
+      <guid>http://localhost:1313/blog/articles/article/</guid>
       <description></description>
     </item>
   </channel>
