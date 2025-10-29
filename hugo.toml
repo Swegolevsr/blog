@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Swegolev Blog'
 theme = 'archie'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
     customcss = ["css/custom.css"]
 
